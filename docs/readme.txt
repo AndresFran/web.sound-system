@@ -1,8 +1,5 @@
-Thank you for using our template!
+Bienvenidos a Sound System Productora
 
-For more awesome templates please visit https://colorlib.com/wp/templates/
+Página web con sistema de gestión (en proceso) para una productora.
 
-Copyright information for the template can't be altered/removed unless you purchase a license.
-More information about the license is available here: https://colorlib.com/wp/licence/
-
-Removing copyright information without the license will result in suspension of your hosting and/or domain name(s).
+Vista sencilla, amigable y con colores en tonalidades violetas, si es de música, tiene que mostrar calma y alegría.
